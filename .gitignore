@@ -1,0 +1,30 @@
+# ===============================
+# Chemistry & Science Visualizer
+# ===============================
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Logs or temporary files
+*.log
+*.tmp
+*.bak
+
+# Node.js (only needed if you install packages later)
+node_modules/
+package-lock.json
+
+# Build / output folders (if you later use a bundler)
+dist/
+build/
+out/
+
+# Cache files
+*.cache
+.cache/

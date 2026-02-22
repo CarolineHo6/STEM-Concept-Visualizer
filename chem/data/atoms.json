@@ -1,0 +1,22 @@
+[
+    {
+        "symbol": "H",
+        "color": "#ffffff",
+        "valence": 1
+    },
+    {
+        "symbol": "O",
+        "color": "#ff0000",
+        "valence": 2
+    },
+    {
+        "symbol": "C",
+        "color": "#000000",
+        "valence": 4
+    },
+    {
+        "symbol": "N",
+        "color": "#0000ff",
+        "valence": 3
+    }
+]

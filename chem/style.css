@@ -1,0 +1,62 @@
+/* General Page */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    background-color: #f0f0f0;
+}
+
+/* Sidebar */
+#sidebar {
+    width: 200px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-right: 2px solid #ccc;
+    box-sizing: border-box;
+    height: 100vh;
+    overflow-y: auto;
+}
+
+/* Sidebar Heading */
+#sidebar h2 {
+    margin-top: 0;
+    text-align: center;
+}
+
+/* Atom Palette Buttons */
+#atom-palette button {
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    border: 2px solid #000;
+    border-radius: 50%;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+/* Reaction Button */
+#start-reaction {
+    margin-top: 20px;
+    padding: 10px;
+    width: 100%;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+#start-reaction:hover {
+    background-color: #45a049;
+}
+
+/* Canvas Container */
+#canvas-container {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e0e0e0;
+}

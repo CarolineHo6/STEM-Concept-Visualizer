@@ -1,0 +1,22 @@
+[
+    {
+        "reactants": [
+            "H2",
+            "O2"
+        ],
+        "products": [
+            "H2O"
+        ],
+        "description": "Water forms! Bent shape gives polarity."
+    },
+    {
+        "reactants": [
+            "Na",
+            "Cl"
+        ],
+        "products": [
+            "NaCl"
+        ],
+        "description": "Table salt forms!"
+    }
+]
